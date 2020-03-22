@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="37" started-at="2020-03-22T08:29:58Z" finished-at="2020-03-22T08:29:58Z">
+  <suite name="Command line suite" duration-ms="38" started-at="2020-03-22T16:12:01Z" finished-at="2020-03-22T16:12:01Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="37" started-at="2020-03-22T08:29:58Z" finished-at="2020-03-22T08:29:58Z">
+    <test name="Command line test" duration-ms="38" started-at="2020-03-22T16:12:01Z" finished-at="2020-03-22T16:12:01Z">
       <class name="SamplePackage.Class_1_Test">
-        <test-method status="PASS" signature="class_1()" name="class_1" duration-ms="12" started-at="2020-03-22T08:29:58Z" finished-at="2020-03-22T08:29:58Z">
+        <test-method status="PASS" signature="class_1()" name="class_1" duration-ms="13" started-at="2020-03-22T16:12:01Z" finished-at="2020-03-22T16:12:01Z">
         </test-method>
       </class>
       <class name="SamplePackage.Class_2_Test">
-        <test-method status="PASS" signature="class_2()" name="class_2" duration-ms="1" started-at="2020-03-22T08:29:58Z" finished-at="2020-03-22T08:29:58Z">
+        <test-method status="PASS" signature="class_2()" name="class_2" duration-ms="0" started-at="2020-03-22T16:12:01Z" finished-at="2020-03-22T16:12:01Z">
         </test-method>
       </class>
     </test>
